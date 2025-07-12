@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es2019",
+    "baseUrl": ".",
+    "paths": {
+      "@shared/models": ["packages/shared/models"]
+    },
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true
+  }
+}
